@@ -77,8 +77,9 @@ header{
 .cartoons ul{
 	margin: 10px 10px;
 }
- .mult{
-	
+.cartoons{
+	display: flex;
+	align-items: center;
 }
  
 .cartoons li{
